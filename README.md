@@ -9,5 +9,5 @@
 - 🤔 I’m looking for help in some advance topics in React Js
 - 💬 Ask me about help anytime i'm likely to solve problems related Programming
 - 📫 you can reach me through my email 
-- ⚡ Fun fact: Nobody understand me, am i a Javascript ? 😅 Just Kidding
-- 🏁 last thing: You can call me KD.
+- ⚡ Fun fact about me: Nobody understand me, am i a Javascript ? 😅 Just Kidding
+- 📛 nickName: "KD"
